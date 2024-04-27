@@ -1,0 +1,6 @@
+[submodule "source/_post"]
+	path = source/_post
+	url = git@github.com:sisyphus1212/note.git
+[submodule "source/_post/0"]
+	path = source/_post/0
+	url = git@github.com:sisyphus1212/note.git
