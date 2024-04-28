@@ -3,6 +3,6 @@
         url = git@github.com:sisyphus1212/hexo-tree-plus.git
         branch = main
 
-[submodule "source/_posts/0"]
-	path = source/_posts/0
+[submodule "articles/0"]
+	path = articles/0
 	url = git@github.com:sisyphus1212/note.git
