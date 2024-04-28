@@ -7,3 +7,4 @@
 [submodule "themes/tree"]
 	path = themes/tree
 	url = git@github.com:sisyphus1212/hexo-tree-plus.git
+	branch = main
