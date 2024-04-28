@@ -1,10 +1,8 @@
-[submodule "source/_post"]
-	path = source/_post
-	url = git@github.com:sisyphus1212/note.git
 [submodule "source/_post/0"]
-	path = source/_post/0
-	url = git@github.com:sisyphus1212/note.git
+        path = source/_posts/0
+        url = git@github.com:sisyphus1212/note.git
 [submodule "themes/tree"]
-	path = themes/tree
-	url = git@github.com:sisyphus1212/hexo-tree-plus.git
-	branch = main
+        path = themes/tree
+        url = git@github.com:sisyphus1212/hexo-tree-plus.git
+        branch = main
+
